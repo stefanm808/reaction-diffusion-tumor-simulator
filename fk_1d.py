@@ -1,3 +1,4 @@
+# FK 1D Solver
 """1D Fisher-Kolmogorov solver for tumor growth."""
 
 import numpy as np
