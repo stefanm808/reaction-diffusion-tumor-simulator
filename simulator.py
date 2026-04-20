@@ -1,4 +1,3 @@
-# Author: Stefan Milosevic
 """Main entry point for the reaction-diffusion tumor simulator."""
 
 from fk_1d import fk_solve_1d
